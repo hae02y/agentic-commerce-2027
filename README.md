@@ -29,6 +29,13 @@ AI가 상품을 찾고 비교하는 데서 나아가, 사람이 정한 조건 �
 
 전체 장별 링크는 [TOC.md](TOC.md)에 있습니다.
 
+## 공개본
+
+- [위키독스 책](https://wikidocs.net/book/22086)
+- [GitHub 원고](https://github.com/hae02y/agentic-commerce-2027)
+
+위키독스에는 들어가며와 1~15장을 공개했습니다. 게시 페이지 ID와 이미지 반영 상태는 [게시 기록](docs/WIKIDOCS_PAGES.md)에 남깁니다.
+
 ## 원고와 출처
 
 - 편집 가능한 기준 원고: `pages/`

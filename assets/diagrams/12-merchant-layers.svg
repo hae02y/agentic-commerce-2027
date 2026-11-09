@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 350" role="img" aria-labelledby="title desc">
+  <title id="title">판매자가 준비할 네 층</title><desc id="desc">상품 사실, 판매 정책, 주문 실행, 성과 측정을 아래에서 위로 쌓는다.</desc>
+  <rect width="900" height="350" rx="22" fill="#f6f8fc"/>
+  <text x="40" y="46" font-family="Apple SD Gothic Neo,Noto Sans CJK KR,sans-serif" font-size="26" font-weight="700" fill="#172b4d">AI 쇼핑을 위한 판매자 준비</text>
+  <g font-family="Apple SD Gothic Neo,Noto Sans CJK KR,sans-serif" text-anchor="middle">
+    <rect x="70" y="256" width="760" height="55" rx="12" fill="#d8e8ff"/><text x="450" y="290" font-size="20" font-weight="700" fill="#173e72">1. 상품 사실 — 품목·옵션·가격·재고·이미지</text>
+    <rect x="125" y="194" width="650" height="55" rx="12" fill="#d9f2ef"/><text x="450" y="228" font-size="20" font-weight="700" fill="#125b56">2. 판매 정책 — 배송·반품·고객지원</text>
+    <rect x="180" y="132" width="540" height="55" rx="12" fill="#fff0d8"/><text x="450" y="166" font-size="20" font-weight="700" fill="#825316">3. 주문 실행 — 재고 확인·결제·확인서</text>
+    <rect x="235" y="70" width="430" height="55" rx="12" fill="#e8e1fb"/><text x="450" y="104" font-size="20" font-weight="700" fill="#5b3a8e">4. 측정 — 오류·반품·문의</text>
+  </g>
+</svg>

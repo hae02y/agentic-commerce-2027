@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="240" viewBox="0 0 1000 240" role="img" aria-label="상품 발견, 비교 선택, 승인 결제, 주문 이후, 2027년 준비의 다섯 단계">
+<rect width="1000" height="240" rx="24" fill="#f8fafc"/>
+<text x="40" y="55" font-family="Arial, sans-serif" font-size="29" font-weight="700" fill="#12263a">AI가 쇼핑에 참여할 때의 다섯 단계</text>
+<g font-family="Arial, sans-serif" font-size="18" font-weight="700" text-anchor="middle">
+<rect x="40" y="97" width="160" height="90" rx="16" fill="#dbeafe"/><text x="120" y="145" fill="#12385f">상품 발견</text>
+<rect x="230" y="97" width="160" height="90" rx="16" fill="#d1fae5"/><text x="310" y="145" fill="#145242">비교·선택</text>
+<rect x="420" y="97" width="160" height="90" rx="16" fill="#fef3c7"/><text x="500" y="145" fill="#6b4e16">승인·결제</text>
+<rect x="610" y="97" width="160" height="90" rx="16" fill="#fce7f3"/><text x="690" y="145" fill="#713754">주문 이후</text>
+<rect x="800" y="97" width="160" height="90" rx="16" fill="#e9e5ff"/><text x="880" y="145" fill="#403a77">2027년 준비</text>
+</g>
+<g fill="#64748b"><path d="M206 137l16 0-7-7m7 7-7 7"/><path d="M396 137l16 0-7-7m7 7-7 7"/><path d="M586 137l16 0-7-7m7 7-7 7"/><path d="M776 137l16 0-7-7m7 7-7 7"/></g>
+</svg>

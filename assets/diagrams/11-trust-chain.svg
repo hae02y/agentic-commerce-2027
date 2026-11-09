@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 290" role="img" aria-labelledby="title desc">
+  <title id="title">에이전틱 커머스의 신뢰를 이루는 다섯 고리</title>
+  <desc id="desc">고객 요청, 에이전트 신원, 상품 사실, 결제 권한, 실제 주문을 차례로 확인한다.</desc>
+  <rect width="1000" height="290" rx="22" fill="#f6f8fc"/>
+  <text x="40" y="50" font-family="Apple SD Gothic Neo,Noto Sans CJK KR,sans-serif" font-size="25" font-weight="700" fill="#172b4d">한 고리라도 빠지면 거래를 믿기 어렵습니다</text>
+  <g font-family="Apple SD Gothic Neo,Noto Sans CJK KR,sans-serif" text-anchor="middle">
+    <rect x="35" y="105" width="160" height="100" rx="18" fill="#d8e8ff"/><text x="115" y="147" font-size="19" font-weight="700" fill="#173e72">고객 요청</text><text x="115" y="176" font-size="14" fill="#355b85">무엇을 원했나</text>
+    <rect x="227" y="105" width="160" height="100" rx="18" fill="#d9f2ef"/><text x="307" y="147" font-size="19" font-weight="700" fill="#125b56">에이전트 신원</text><text x="307" y="176" font-size="14" fill="#33766f">누가 행동하나</text>
+    <rect x="419" y="105" width="160" height="100" rx="18" fill="#fff0d8"/><text x="499" y="147" font-size="19" font-weight="700" fill="#825316">상품 사실</text><text x="499" y="176" font-size="14" fill="#92723f">가격·옵션·재고</text>
+    <rect x="611" y="105" width="160" height="100" rx="18" fill="#e8e1fb"/><text x="691" y="147" font-size="19" font-weight="700" fill="#5b3a8e">결제 권한</text><text x="691" y="176" font-size="14" fill="#765a9a">한도와 승인</text>
+    <rect x="803" y="105" width="160" height="100" rx="18" fill="#d9f0df"/><text x="883" y="147" font-size="19" font-weight="700" fill="#22653d">실제 주문</text><text x="883" y="176" font-size="14" fill="#4b8260">결과와 기록</text>
+  </g>
+  <g fill="#60738d"><path d="M200 148h20v-8l12 15-12 15v-8h-20z"/><path d="M392 148h20v-8l12 15-12 15v-8h-20z"/><path d="M584 148h20v-8l12 15-12 15v-8h-20z"/><path d="M776 148h20v-8l12 15-12 15v-8h-20z"/></g>
+  <text x="40" y="254" font-family="Apple SD Gothic Neo,Noto Sans CJK KR,sans-serif" font-size="16" fill="#526579">주문 전 허락의 범위와 주문 후 실행 결과를 맞춰 봅니다.</text>
+</svg>

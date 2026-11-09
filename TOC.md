@@ -1,0 +1,18 @@
+# 처음 만나는 에이전틱 커머스
+
+- [들어가며: AI에게 지갑을 맡기기 전에](pages/00-preface.md)
+- [01. 왜 AI가 쇼핑을 시작했나](pages/01-why-ai-shops.md)
+- [02. 에이전틱 커머스란 무엇인가](pages/02-what-is-agentic-commerce.md)
+- [03. 검색에서 대화로 바뀌는 상품 발견](pages/03-product-discovery.md)
+- [04. AI가 읽을 수 있는 상품 정보](pages/04-product-data.md)
+- [05. 비교·추천·선택의 기준](pages/05-recommendation-and-choice.md)
+- [06. 구매 위임과 사람의 승인](pages/06-delegation-and-approval.md)
+- [07. AI 결제의 흐름과 한도](pages/07-agent-payments.md)
+- [08. 주문·배송·반품에서 누가 책임지나](pages/08-order-fulfillment-returns.md)
+- [09. 기업 구매와 청구서 처리](pages/09-b2b-procurement.md)
+- [10. 에이전트가 디지털 서비스에 돈을 낼 때](pages/10-machine-to-machine-commerce.md)
+- [11. 신뢰·사기·오구매를 막는 법](pages/11-trust-fraud-and-errors.md)
+- [12. 판매자가 준비할 것](pages/12-merchant-readiness.md)
+- [13. 소비자가 맡기고 확인할 것](pages/13-consumer-checklist.md)
+- [14. 조직의 90일 도입 계획](pages/14-ninety-day-plan.md)
+- [15. 2027년의 세 가지 시나리오와 관찰 지표](pages/15-2027-scenarios.md)

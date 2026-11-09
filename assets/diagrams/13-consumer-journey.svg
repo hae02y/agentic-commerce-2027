@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 310" role="img" aria-labelledby="title desc">
+  <title id="title">소비자의 위임과 확인 여정</title><desc id="desc">탐색과 비교를 AI에 맡기고, 결제 전 승인과 주문 후 확인은 사람이 맡는다.</desc>
+  <rect width="960" height="310" rx="22" fill="#f6f8fc"/>
+  <text x="36" y="47" font-family="Apple SD Gothic Neo,Noto Sans CJK KR,sans-serif" font-size="25" font-weight="700" fill="#172b4d">AI에게 맡길 일과 직접 확인할 일</text>
+  <g font-family="Apple SD Gothic Neo,Noto Sans CJK KR,sans-serif" text-anchor="middle">
+    <rect x="35" y="95" width="205" height="118" rx="17" fill="#d8e8ff"/><text x="137" y="137" font-size="21" font-weight="700" fill="#173e72">탐색</text><text x="137" y="170" font-size="16" fill="#355b85">AI: 후보 찾기</text><text x="137" y="194" font-size="15" fill="#355b85">사람: 조건 제시</text>
+    <rect x="263" y="95" width="205" height="118" rx="17" fill="#d9f2ef"/><text x="365" y="137" font-size="21" font-weight="700" fill="#125b56">비교</text><text x="365" y="170" font-size="16" fill="#33766f">AI: 차이 정리</text><text x="365" y="194" font-size="15" fill="#33766f">사람: 근거 확인</text>
+    <rect x="491" y="95" width="205" height="118" rx="17" fill="#fff0d8"/><text x="593" y="137" font-size="21" font-weight="700" fill="#825316">승인</text><text x="593" y="170" font-size="16" fill="#92723f">AI: 최종안 표시</text><text x="593" y="194" font-size="15" fill="#92723f">사람: 총액·옵션 확인</text>
+    <rect x="719" y="95" width="205" height="118" rx="17" fill="#d9f0df"/><text x="821" y="137" font-size="21" font-weight="700" fill="#22653d">주문 후</text><text x="821" y="170" font-size="16" fill="#4b8260">AI: 상태 정리</text><text x="821" y="194" font-size="15" fill="#4b8260">사람: 주문 번호 확인</text>
+  </g>
+  <text x="37" y="265" font-family="Apple SD Gothic Neo,Noto Sans CJK KR,sans-serif" font-size="17" fill="#526579">돈이 움직이는 경계에서 판매자·옵션·총액을 다시 확인합니다.</text>
+</svg>

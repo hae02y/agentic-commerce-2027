@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 330" role="img" aria-labelledby="title desc">
+  <title id="title">2027년 에이전틱 커머스의 세 가지 시나리오</title><desc id="desc">발견과 비교 중심, 승인형 거래 확대, 자동화 지연이라는 세 경로를 같은 출발점에서 살핀다.</desc>
+  <rect width="960" height="330" rx="22" fill="#f6f8fc"/>
+  <text x="35" y="47" font-family="Apple SD Gothic Neo,Noto Sans CJK KR,sans-serif" font-size="25" font-weight="700" fill="#172b4d">2027년은 하나의 정답이 아니라 세 경로입니다</text>
+  <rect x="325" y="75" width="310" height="51" rx="14" fill="#dde5ef"/><text x="480" y="108" font-family="Apple SD Gothic Neo,Noto Sans CJK KR,sans-serif" font-size="19" font-weight="700" text-anchor="middle" fill="#294560">2026년 공개된 기능과 시범 운영</text>
+  <path d="M480 126v35M170 161h620M170 161v22M480 161v22M790 161v22" fill="none" stroke="#8194ad" stroke-width="4"/>
+  <g font-family="Apple SD Gothic Neo,Noto Sans CJK KR,sans-serif" text-anchor="middle">
+    <rect x="35" y="183" width="270" height="105" rx="18" fill="#d8e8ff"/><text x="170" y="223" font-size="20" font-weight="700" fill="#173e72">A. 발견·비교 중심</text><text x="170" y="255" font-size="16" fill="#355b85">구매는 기존 판매자 채널</text>
+    <rect x="345" y="183" width="270" height="105" rx="18" fill="#d9f2ef"/><text x="480" y="223" font-size="20" font-weight="700" fill="#125b56">B. 승인형 거래 확대</text><text x="480" y="255" font-size="16" fill="#33766f">좁은 범위에서 결제 위임</text>
+    <rect x="655" y="183" width="270" height="105" rx="18" fill="#fff0d8"/><text x="790" y="223" font-size="20" font-weight="700" fill="#825316">C. 자동화 확산 지연</text><text x="790" y="255" font-size="16" fill="#92723f">데이터·신뢰·운영 과제 지속</text>
+  </g>
+</svg>
